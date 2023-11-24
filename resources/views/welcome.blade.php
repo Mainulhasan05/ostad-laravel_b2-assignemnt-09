@@ -34,7 +34,6 @@
     <p class="lead">Currently working at Microdeft as a Software Developer</p>
 </div>
 
-<!-- Main Content -->
 <div class="container">
     <h2>My Skills</h2>
     <p>Technologies I work with:</p>
@@ -54,7 +53,6 @@
         <li>Mess Management Android App</li>
         <li>Tutor Finder Site</li>
         <li>E-commerce website</li>
-        <!-- Add more projects as needed -->
-    </ul>
+            </ul>
 </div>
 @endsection

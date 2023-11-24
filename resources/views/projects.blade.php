@@ -23,10 +23,8 @@
 <div class="container mt-4">
     <h2>My Projects</h2>
 
-    <!-- Project Cards -->
-    <div class="card-deck">
-        <!-- Project 1 -->
-        <div class="card project-card">
+        <div class="card-deck">
+                <div class="card project-card">
             <img src="project1.jpg" class="card-img-top project-img" alt="Project 1 Image">
             <div class="card-body">
                 <h5 class="card-title">Online Classroom using MERN stack</h5>
@@ -34,8 +32,7 @@
             </div>
         </div>
 
-        <!-- Project 2 -->
-        <div class="card project-card">
+                <div class="card project-card">
             <img src="project2.jpg" class="card-img-top project-img" alt="Project 2 Image">
             <div class="card-body">
                 <h5 class="card-title">Mess Management Android App</h5>
@@ -43,7 +40,6 @@
             </div>
         </div>
 
-        <!-- Add more projects as needed -->
-    </div>
+            </div>
 </div>
 @endsection

@@ -46,14 +46,26 @@
           </form>
         </div>
       </div>
-  
-      <div class="d-flex flex-column flex-sm-row justify-content-between py-4 my-4 border-top">
-        <p>© 2023 Company, Inc. All rights reserved.</p>
+              <div class="d-flex flex-column flex-sm-row justify-content-between py-4 my-4 border-top">
+        <p>© 2023 Company, Inc. All rights reserved. Social Media</p>
         <ul class="list-unstyled d-flex">
-          <li class="ms-3"><a class="link-body-emphasis" href="#"><svg class="bi" width="24" height="24"><use xlink:href="#twitter"></use></svg></a></li>
-          <li class="ms-3"><a class="link-body-emphasis" href="#"><svg class="bi" width="24" height="24"><use xlink:href="#instagram"></use></svg></a></li>
-          <li class="ms-3"><a class="link-body-emphasis" href="#"><svg class="bi" width="24" height="24"><use xlink:href="#facebook"></use></svg></a></li>
+                        <li class="ms-3">
+                <a class="link-body-emphasis" href="https://github.com/Mainulhasan05" target="_blank">
+                    <img width="20" height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXqDKyfbUJ3bsDc5tPovwsAHicZqq5HIMDYPvmRzpdmg&s" alt="">
+                </a>
+            </li>
+                        <li class="ms-3">
+                <a class="link-body-emphasis" href="https://www.linkedin.com/in/md-mainul-hasan-bb0833225" target="_blank">
+                    <img width="20" height="20" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="">
+                </a>
+            </li>
+                        <li class="ms-3">
+                <a class="link-body-emphasis" href="https://www.facebook.com/mainul.hasanrifat.790" target="_blank">
+                    <img width="20" height="20" src="https://static-00.iconduck.com/assets.00/facebook-icon-512x512-seb542ju.png" alt="">
+                </a>
+            </li>
         </ul>
-      </div>
+    </div>
+  
     </footer>
   </div>

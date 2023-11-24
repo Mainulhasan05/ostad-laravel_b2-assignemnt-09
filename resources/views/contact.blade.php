@@ -30,7 +30,6 @@
                 provided contact details below.
             </p>
 
-            <!-- Contact Form -->
             <form class="contact-form">
                 <div class="form-group">
                     <label for="name">Name:</label>
@@ -48,12 +47,14 @@
             </form>
         </div>
 
-        <div class="col-md-6">
-            <!-- Contact Details -->
-            <h4>Contact Details</h4>
-            <p>Email: mainul@example.com</p>
-            <p>Phone: +123 456 7890</p>
+        <div class="col-md-6 ">
+            
+            <div class="mx-3">
+                <h4>Contact Details</h4>
+            <p>Email: mdrifatbd5@gmail.com</p>
+            <p>Phone: +880 17579 5016</p>
             <p>Address: Dhaka, Bangladesh</p>
+            </div>
         </div>
     </div>
 </div>
